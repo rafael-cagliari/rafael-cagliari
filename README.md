@@ -13,7 +13,7 @@
 
 <p align = "left"> 🔧 Keen on crafting clean, efficient, and scalable code. Always staying updated with the latest trends in Android development. </p>
 
-<p align = "left"> 🚀 Currently employed at <a href= "https://github.com/stone-payments".> @stone-payments</a> </p>
+<p align = "left"> 🚀 Currently employed at <a href= "https://github.com/stone-payments"> @stone-payments</a> </p>
 
 <p align = "left"> 🌱 Now learning <strong>Kotlin Multiplatform (KMP)</strong> and <strong>Swift/SwiftUi</strong>. </p>
 
