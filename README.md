@@ -9,7 +9,7 @@
 
 ### About Me
 
-<p align = "left"> 👨‍💻 Over 2 and a half years of professional experience in <strong>Android development</strong> using <strong>Kotlin</strong>. </p>
+<p align = "left"> 👨‍💻 Over 3 years of professional experience in <strong>Android development</strong> using <strong>Kotlin</strong>. </p>
 
 <p align = "left"> 🔧 Keen on crafting clean, efficient, and scalable code. Always staying updated with the latest trends in Android development. </p>
 
